@@ -1,6 +1,4 @@
 # Library Management System
-Final assignment.
-
 ## Team Members
 - Burhan Shibli (8987194)
 - Mohid Ali (Student ID)

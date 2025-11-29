@@ -1,6 +1,5 @@
 # Library Management System
-
-This project is for the PROG2111 final assignment.
+Final assignment.
 
 ## Team Members
 - Burhan Shibli (8987194)

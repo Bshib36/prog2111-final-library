@@ -1,3 +1,5 @@
+## Course
+PROG2111 – Relational Databases
 # Library Management System
 ## Team Members
 - Burhan Shibli (8987194)
@@ -10,6 +12,4 @@ their copies, members, and librarians. It lets the library track when a member b
 a specific book copy and when it is returned. Each book also has details like category,
 publisher, and language. This helps the library stay organized by keeping records, loans, and staff activity.
 
-## Course
-PROG2111 – Relational Databases
 

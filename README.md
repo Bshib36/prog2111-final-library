@@ -3,7 +3,7 @@
 PROG2111 – Relational Databases
 ## Group 6
 - Burhan Shibli (8987194)
-- Mohid Ali (Student ID)
+- Mohid Ali (8921589)
 - Po-Hsien Lu (9008451)
 
 ## Project Overview

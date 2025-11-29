@@ -1,7 +1,7 @@
 # Library Management System
 ## Course
 PROG2111 – Relational Databases
-## Team Members
+## Group 6
 - Burhan Shibli (8987194)
 - Mohid Ali (Student ID)
 - Po-Hsien Lu (9008451)
